@@ -1,0 +1,25 @@
+
+{
+
+	"nama": "Reyza Fakhri Azzadi",
+	"age": 22,
+	"address": "Pondok Ungu Permai Blok F 14/24",
+	"hobbies": [ 
+		"Badminton",
+		"Futsal",
+		"Koding"
+			],
+	"is_merried": false,
+	"list_school": {
+		"nama kampus" : "Universitas Gunadarma",
+		"In year": 2015,
+		"out_year": 2019,
+		"major": "Teknik Informatika"
+		},
+	"Interest_in_coding": true,
+	"Skill": [
+		"Java Developer",
+		"Basic Front End Web",
+		"Networking"
+	]
+}
